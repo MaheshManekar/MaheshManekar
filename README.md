@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on various Data Analysis and Machine Learning projects
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Science and Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available on the Github
 
